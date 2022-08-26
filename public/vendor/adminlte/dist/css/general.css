@@ -1,0 +1,11 @@
+.box-disabled{
+    display:none;
+}
+
+.ck.ck-editor{
+    width:100% !important;
+}
+.ck.ck-content{
+    height:180px;
+}
+
